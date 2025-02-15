@@ -1,5 +1,11 @@
 # Latihan-terbaru
-harusnya bisa ga sih
+Kenapa ya
+*sehqqrudnyta*
+
+tambahan buat squash merge
+<p>commit 1 </p>
+<p>commit 2</p>
+<p>commit 3</p>
 
 Nah coba disini ya
 

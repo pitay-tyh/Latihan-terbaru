@@ -3,4 +3,6 @@ Kenapa ya
 *sehqqrudnyta*
 
 tambahan buat squash merge
-commit 1
+<p>commit 1 </p>
+<p>commit 2</p>
+

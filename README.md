@@ -1,2 +1,2 @@
 # Latihan-terbaru
-Terkait branch dan conflict
+harusnya bisa ga sih

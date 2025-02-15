@@ -1,2 +1,3 @@
 # Latihan-terbaru
-Terkait branch dan conflict
+Kenapa ya
+*sehqqrudnyta*

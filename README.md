@@ -10,3 +10,4 @@ tambahan buat squash merge
 Nah coba disini ya
 
 nah ini dari repository
+<p>nah ini yang bener dari branch 2</p>

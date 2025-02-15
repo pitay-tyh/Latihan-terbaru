@@ -1,3 +1,3 @@
 # Latihan-terbaru
-harusnya bisa ga sih
-
+Kenapa ya
+*sehqqrudnyta*
